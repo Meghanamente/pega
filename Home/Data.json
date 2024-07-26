@@ -1,0 +1,20 @@
+{
+    "menuItems": [
+      {
+        "label": "Home",
+        "subMenu": []
+      },
+      {
+        "label": "Intent",
+        "subMenu": ["SubIntent1", "SubIntent2"]
+      },
+      {
+        "label": "Ticket",
+        "subMenu": ["SubTicket1", "SubTicket2"]
+      },
+      {
+        "label": "CaseSearch",
+        "subMenu": ["SubCase1", "SubCase2"]
+      }
+    ]
+  }  
